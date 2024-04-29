@@ -20,7 +20,8 @@
 ![alt text](image/k-league_live_event.png)
 
 ### 활용한 데이터
-- 활용 가능한 K-league 데이터가 없어 [Statsbomb opendata](https://github.com/statsbomb/open-data) 활용. 
+- 활용 가능한 K-league 데이터가 없어 [Statsbomb opendata](https://github.com/statsbomb/open-data) 활용.
+   - PL, La Liga, Ligue1 814경기의 event data 활용
 - 전 시즌 순위 및 해당 시즌 경기 결과로 elo-rating 값 산출. 
 
 ### 모델링
@@ -31,7 +32,7 @@
 - [베이지안 네트워크](graphical_structure.pdf)
 
 
-### K-league 실시간 숭리확률 얘축
+### K-league 실시간 숭리확률 예측 예시
 - 하나은행 K-League 4round
 - 전북(홈) vs 울산(어웨이) 
 - 경기일 : 2024/03/30
