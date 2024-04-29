@@ -40,3 +40,10 @@
 
 ![alt text](image/application_case.png)
 
+### Reference
+1. Statsbomb
+2. K-League 데이터 포탈
+3. Explaining Live Win Probability (LWP) - opta
+4. A Bayesian Approach to In-Game Win probability in soccer(2021) P. Robberechts, Jan Van Harren, J. Davis
+5. A Bayesian approach to predict football matches with changed home advantage in spectator-free matches after the COVID-19 break(2022) J Lee, J Kim, H Kim, JS Lee
+
