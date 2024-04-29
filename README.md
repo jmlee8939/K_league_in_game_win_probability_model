@@ -10,7 +10,7 @@
 ![alt text](image/image.png)
 
 ### K-league LIVE EVENT 정보
-- [K-league 데이터 포털](https://data.kleague.com/) 에서 실시간 이벤트 데이터 제공
+- [K-league 데이터 포털](https://data.kleague.com/) 에서 제공하는 실시간 이벤트 데이터
     - 골 
     - 슈팅
     - 오프사이드
