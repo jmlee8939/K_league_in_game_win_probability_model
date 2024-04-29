@@ -26,7 +26,7 @@
 
 ### 모델링
 - Bayesian poisson model
-- 베이지안 추론 [pymc](https://www.pymc.io/welcome.html) package 활용.
+- 베이지안 추론 [pymc](https://www.pymc.io/) package 활용.
 
 ### 모델 구조
 - [베이지안 네트워크](graphical_structure.pdf)
@@ -41,9 +41,12 @@
 ![alt text](image/application_case.png)
 
 ### Reference
-1. Statsbomb
-2. K-League 데이터 포탈
-3. Explaining Live Win Probability (LWP) - opta
-4. A Bayesian Approach to In-Game Win probability in soccer(2021) P. Robberechts, Jan Van Harren, J. Davis
-5. A Bayesian approach to predict football matches with changed home advantage in spectator-free matches after the COVID-19 break(2022) J Lee, J Kim, H Kim, JS Lee
+1. [Statsbomb opendata](https://github.com/statsbomb/open-data)
+2. [K-League 데이터 포탈](https://data.kleague.com/)
+3. [pymc](https://www.pymc.io/)
+4. [Explaining Live Win Probability (LWP) - opta](https://theanalyst.com/eu/2021/11/live-win-probability/)
+5. [Americal Soccer analysis](https://www.americansocceranalysis.com/home/2021/7/16/we-have-a-new-win-probability-model)
+6. [Win probability model - Abhshek sharma](https://sharmaabhishekk.github.io/projects/win-probability-implementation)
+7. [A Bayesian Approach to In-Game Win probability in soccer(2019)](https://dl.acm.org/doi/10.1145/3447548.3467194) P. Robberechts, Jan Van Harren, J. Davis
+8. [A Bayesian approach to predict football matches with changed home advantage in spectator-free matches after the COVID-19 break(2022)](https://www.mdpi.com/1099-4300/24/3/366) J Lee, J Kim, H Kim, JS Lee
 
