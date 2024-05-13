@@ -11,11 +11,11 @@
 
 ### K-league LIVE EVENT DATA
 - [K-league 데이터 포털](https://data.kleague.com/) 에서 제공하는 실시간 이벤트 데이터
-    - 골 (Goal)
-    - 슈팅 (Shot)
-    - 오프사이드 (Off-side)
-    - 반칙 (Foul Conceded)
-    - 카드(경고, 퇴장) (Yellow, Red)
+    - 골 
+    - 슈팅 
+    - 오프사이드 
+    - 반칙 
+    - 카드(경고, 퇴장) 
 
 ![alt text](image/k-league_live_event.png)
 
