@@ -6,16 +6,16 @@
 
 실시간으로 제공되는 이벤트 데이터를 활용하여, 경기 시점마다의 각 팀의 승리확률을 예측하는 모형입니다.
 
-- Premier league 예시
+- Premier league win probability model.
 ![alt text](image/image.png)
 
-### K-league LIVE EVENT 정보
+### K-league LIVE EVENT DATA
 - [K-league 데이터 포털](https://data.kleague.com/) 에서 제공하는 실시간 이벤트 데이터
-    - 골 
-    - 슈팅
-    - 오프사이드
-    - 반칙
-    - 카드(경고, 퇴장)
+    - 골 (Goal)
+    - 슈팅 (Shot)
+    - 오프사이드 (Off-side)
+    - 반칙 (Foul Conceded)
+    - 카드(경고, 퇴장) (Yellow, Red)
 
 ![alt text](image/k-league_live_event.png)
 
