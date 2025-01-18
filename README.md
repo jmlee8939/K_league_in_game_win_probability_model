@@ -28,6 +28,8 @@
 - Bayesian poisson model
 - 베이지안 추론 [pymc](https://www.pymc.io/) package 활용.
 
+![alt text](image/estimated parameter.png)
+
 ### 모델 구조
 - [베이지안 네트워크](graphical_structure.pdf)
 
